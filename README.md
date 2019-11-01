@@ -10,7 +10,7 @@ I am going to share one problem every week.
 Also I publish problems in Telegram channel https://t.me/coding_broadcast, in Russian.
 
 ## Content
-* [Java](java/README.MD)
+* [Java](java/README.md)
 
 ## Contributing
 I am happy for any help: sharing problems, any ideas, coding solution for different languages and etc.
