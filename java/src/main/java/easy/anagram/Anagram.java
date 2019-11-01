@@ -11,6 +11,7 @@ package easy.anagram;
  * of each other. <br><br>
  * <p>
  * Implement your own solution in {@link AnagramCoding} and test with {@link AnagramTest}.
+ * Then, check correct answer by {@link AnagramSolution1}, {@link AnagramSolution2}, {@link AnagramSolution3}
  */
 interface Anagram {
 
