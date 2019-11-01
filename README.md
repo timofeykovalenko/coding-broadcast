@@ -16,4 +16,4 @@ Also I publish problems in Telegram channel https://t.me/coding_broadcast, in Ru
 I am happy for any help: sharing problems, any ideas, coding solution for different languages and etc.
 
 ## Issues
-Do not hesitate review my code and create issues.
+Do not hesistate review my code and create issues.
